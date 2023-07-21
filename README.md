@@ -9,5 +9,5 @@ sushantnair/sushantnair is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-Link to my personal biodata website: https://sushantnair.000webhostapp.com/
-Link to my PGLife Project (code and guidance for which was provided by Internshala Trainings (find their course here: https://trainings.internshala.com/web-development-course/?tracking_source=trainings-dropdown-most-popular)): https://pglife-sushantnair.000webhostapp.com/index.php
+--> Link to my personal biodata website: https://sushantnair.000webhostapp.com/
+--> Link to my PGLife Project (code and guidance for which was provided by Internshala Trainings (find their course here: https://trainings.internshala.com/web-development-course/?tracking_source=trainings-dropdown-most-popular)): https://pglife-sushantnair.000webhostapp.com/index.php
