@@ -19,6 +19,6 @@ You can click the Preview link to take a look at your changes.
 <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantnair&layout=donut" />
 <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantnair" />
 <img height=400 align="center" src="https://api.githubtrends.io/user/svg/sushantnair/langs" />
-<img align="center" src="https://www.githubwrapped.io/sushantnair" />
+<img align="center" src="[https://www.githubwrapped.io/sushantnair](https://api.githubtrends.io/user/svg/sushantnair/repos?time_range=one_year&theme=bright_lights)https://api.githubtrends.io/user/svg/sushantnair/repos?time_range=one_year&theme=bright_lights" />
 
 Check out my coding stats <a href="https://www.githubwrapped.io/sushantnair">here</a>. 
