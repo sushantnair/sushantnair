@@ -17,4 +17,6 @@ You can click the Preview link to take a look at your changes.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sushantnair&size_weight=0.5&count_weight=0.5)
 
-Check out my coding stats <a href="">here</a>. https://www.githubwrapped.io/sushantnair
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sushantnair&layout=donut)](https://github.com/sushantnair/github-readme-stats)
+
+Check out my coding stats <a href="https://www.githubwrapped.io/sushantnair">here</a>. 
