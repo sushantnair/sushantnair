@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 - Link to my PGLife Project (code and guidance for which was provided by Internshala Trainings (find their course here: https://trainings.internshala.com/web-development-course/?tracking_source=trainings-dropdown-most-popular)): https://pglife-sushantnair.000webhostapp.com/index.php
 - A note: As I use free web hosting service and free database service, it is going to be slow so please be patient!
 
-<img height=600 align="center" src="https://github.com/sushantnair/sushantnair/assets/136300038/9935886f-52c8-4ff4-b302-7566d5b13914" />
+<img height=500 align="center" src="https://github.com/sushantnair/sushantnair/assets/136300038/9935886f-52c8-4ff4-b302-7566d5b13914" />
 <img height=600 align="center" src="https://github-readme-stats.vercel.app/api?username=sushantnair&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=cobalt" />
 <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantnair&layout=pie" />
 <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantnair&layout=donut" />
