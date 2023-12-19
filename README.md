@@ -14,7 +14,8 @@ You can click the Preview link to take a look at your changes.
 - A note: As I use free web hosting service and free database service, it is going to be slow so please be patient!
   
 <!--- [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/sushantnair/langs)](https://githubtrends.io) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sushantnair) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sushantnair&layout=donut) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sushantnair&layout=pie) ![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=sushantnair&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=cobalt) --->
-<img height=600 align="center" src="https://github.com/sushantnair/sushantnair/assets/136300038/b384dd2f-82f3-4e4e-b77d-530b195bdcb3" />
+
+<img height=800 align="center" src="https://github.com/sushantnair/sushantnair/assets/136300038/f77da8ab-cd25-4297-adf2-f64e1c5752a1" />
 <img height=600 align="center" src="https://github-readme-stats.vercel.app/api?username=sushantnair&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=cobalt" />
 <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantnair&layout=pie" />
 <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantnair&layout=donut" />
