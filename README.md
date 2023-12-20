@@ -23,4 +23,4 @@ You can click the Preview link to take a look at your changes.
 <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantnair" />
 <img height=400 align="center" src="https://api.githubtrends.io/user/svg/sushantnair/langs" />
 <img height=400 align="center" src="https://api.githubtrends.io/user/svg/sushantnair/repos" />
-Check out my coding stats <a href="https://www.githubwrapped.io/sushantnair">here</a>. 
+Check out my coding stats <a href="https://www.githubwrapped.io/sushantnair" target="_BLANK">here</a>. 
