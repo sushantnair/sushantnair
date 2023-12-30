@@ -13,10 +13,6 @@ You can click the Preview link to take a look at your changes.
 - Link to my PGLife Project (code and guidance for which was provided by Internshala Trainings (find their course here: https://trainings.internshala.com/web-development-course/?tracking_source=trainings-dropdown-most-popular)): https://pglife-sushantnair.000webhostapp.com/index.php
 - A note: As I use free web hosting service and free database service, it is going to be slow so please be patient!
 
-<img height=500 align="center" src="https://github.com/sushantnair/sushantnair/assets/136300038/9935886f-52c8-4ff4-b302-7566d5b13914" />
-<img height=500 align="center" src="https://github.com/sushantnair/sushantnair/assets/136300038/6cb5bd31-f673-4c18-940e-06fabe73a99d" />
-<img height=500 align="center" src="https://github.com/sushantnair/sushantnair/assets/136300038/f5ec8037-d681-4825-a8c3-f093d176dacb" />
-<img height=500 align="center" src="https://github.com/sushantnair/sushantnair/assets/136300038/b2b4b206-c1f0-4d5e-8495-94ef1d76769a" />
 <img height=600 align="center" src="https://github-readme-stats.vercel.app/api?username=sushantnair&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=cobalt" />
 <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantnair&layout=pie" />
 <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantnair&layout=donut" />
