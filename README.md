@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sushantnair
-- 👀 I’m interested in web development
+- 👀 I’m interested in web development and Artificial Intelligence
 - 🌱 I’m currently learning BTech Computer Engineering
-- 💞️ I’m looking to collaborate on web projects
+- 💞️ I’m looking to collaborate on web and AI projects
 - 📫 sushant.nair@somaiya.edu is my college email; sushantnair.developer@gmail.com is my professional email
 
 <!---
