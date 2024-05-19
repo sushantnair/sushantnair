@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sushantnair
-- 👀 I’m interested in web development and Artificial Intelligence
+- 👀 I’m interested in Web Development (Django and PHP), Artificial Intelligence, Machine Learning, Deep Learning and Natural Language Processing
 - 🌱 I’m currently learning BTech Computer Engineering
-- 💞️ I’m looking to collaborate on web and AI projects
-- 📫 sushant.nair@somaiya.edu is my college email; sushantnair.developer@gmail.com is my professional email
+- 💞️ I’m looking to collaborate on projects
+- 📫 sushant.nair@somaiya.edu is my college email; sushantnair.developer@gmail.com is my semi-formal email; sushant.mnair@gmail.com is my formal email.
 
 <!---
 sushantnair/sushantnair is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
