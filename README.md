@@ -24,21 +24,8 @@ Check out my coding stats <a href="https://www.githubwrapped.io/sushantnair" tar
 
 <span>
 <a href="https://github.com/RedHeadphone">
-<img height="185" src="https://github-readme-stats-redheadphone.vercel.app/api/top-langs/?username=lazerRazor&layout=compact&langs_count=8&theme=github_dark&hide=SCSS,GLSL,GAP&border_color=404040" alt="My Github Top Languages" />
-<img height="185" src="https://github-readme-stats-redheadphone.vercel.app/api?username=lazerRazor&show_icons=true&count_private=true&theme=github_dark&border_color=404040" alt="RedHeadphone Github Stats" />
-</a>
-</span>
-
-
-
-## 📈 Coding Profiles
-
-<span>
-<a href="https://codeforces.com/profile/queue">
-<img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=queue&theme=github_dark&force_username=true&border_color=404040" alt="Queue Codeforces Stats"/>
-</a>
-<a href="https://leetcode.com/RedHeadphone">
-<img height="316" src="https://leetcard.jacoblin.cool/0mniking?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/0mniking/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="0mniking Leetcode Stats"/>
+<img height="185" src="https://github-readme-stats-redheadphone.vercel.app/api/top-langs/?username=sushantnair&layout=compact&langs_count=8&theme=github_dark&hide=SCSS,GLSL,GAP&border_color=404040" alt="My Github Top Languages" />
+<img height="185" src="https://github-readme-stats-redheadphone.vercel.app/api?username=sushantnair&show_icons=true&count_private=true&theme=github_dark&border_color=404040" alt="RedHeadphone Github Stats" />
 </a>
 </span>
 
