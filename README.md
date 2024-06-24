@@ -24,12 +24,11 @@ Check out my coding stats <a href="https://www.githubwrapped.io/sushantnair" tar
 
 <span>
 <a href="https://github.com/RedHeadphone">
-<img height="250" src="https://github-readme-stats-redheadphone.vercel.app/api/top-langs/?username=sushantnair&layout=compact&langs_count=8&theme=github_dark&hide=SCSS,GLSL,GAP&border_color=404040" alt="My Github Top Languages" />
-<img height="250" src="https://github-readme-stats.vercel.app/api?username=sushantnair&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=cobalt" />
-<img height="250" src="https://api.githubtrends.io/user/svg/sushantnair/langs" />
-<img height="250" src="https://api.githubtrends.io/user/svg/sushantnair/repos" />
-<img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantnair&layout=pie" />
-<img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantnair&layout=donut" />
+<img height="300" src="https://github-readme-stats-redheadphone.vercel.app/api/top-langs/?username=sushantnair&layout=compact&langs_count=8&theme=github_dark&hide=SCSS,GLSL,GAP&border_color=404040" alt="My Github Top Languages" />
+<img height="300" src="https://github-readme-stats.vercel.app/api?username=sushantnair&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=cobalt" />
+<img height="300" src="https://api.githubtrends.io/user/svg/sushantnair/langs" />
+<img height="300" src="https://api.githubtrends.io/user/svg/sushantnair/repos" />
+<img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantnair&layout=pie" />
 </a>
 </span>
 
