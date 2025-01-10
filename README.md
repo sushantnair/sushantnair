@@ -23,13 +23,14 @@ Familiar with AI, ML, DL, NLP, Django, Django REST and PHP. Interested in DevOps
 ## 📊 Github Stats
 
 <span>
-<a href="https://github.com/anuraghazra">
-<img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantnair&layout=compact&langs_count=8&theme=github_dark&hide=SCSS,GLSL,GAP&border_color=404040" alt="My Github Top Languages" />
-<img height="300" src="https://github-readme-stats.vercel.app/api?username=sushantnair&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=cobalt" />
-<img height="300" src="https://api.githubtrends.io/user/svg/sushantnair/langs" />
-<img height="300" src="https://api.githubtrends.io/user/svg/sushantnair/repos" />
-<img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantnair&layout=pie" />
-</a>
+<table>
+  <tr><img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantnair&layout=compact&langs_count=8&theme=github_dark&hide=SCSS,GLSL,GAP&border_color=404040" alt="My Github Top Languages" /></tr>
+  <tr><img height="300" src="https://github-readme-stats.vercel.app/api?username=sushantnair&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=cobalt" /></tr>
+  <tr><img height="300" src="https://api.githubtrends.io/user/svg/sushantnair/langs" /></tr>
+  <tr><img height="300" src="https://api.githubtrends.io/user/svg/sushantnair/repos" /></tr>
+  <tr><img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantnair&layout=pie" /></tr>
+
+</table>
 </span>
 
 
