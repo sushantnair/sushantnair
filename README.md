@@ -1,24 +1,22 @@
-<!--
-NAME: സുശാന്ത് നായർ (Sushant Nair)
-DESCRIPTION: എഐ, എംഎൽ, ഡിഎൽ, ഡജാങോ, പിഎച്ച്പി പരിചയം; ഡെവ്‌ഓപ്‌സ്, മേൺ താൽപ്പര്യം; ISKCON അംഗം. Familiar with AI, ML, DL, Django, PHP; interests: DevOps, MERN; ISKCON member
+## Hi. Sushant here. Welcome. :-) ||| നമസ്കാരം. സുശാന്ത് ഇവിടെ. സ്വാഗതം.
+## வணக்கம். சுஷாந்த் இங்கே. வரவேற்கிறேன். ||| नमस्कार। सुशन्त अत्र । स्वागतम्‌।
+#### <em>Talk about the diversity of India! Three languages are native to me: Malayalam, Tamizh and Samskrta. </em>
+<br />
 
-## Detailed Bio
+I'm a passionate Python and AI developer from Kerala, India 🇮🇳
+ഞാന് കേരളം, ഭാരത ന പായിത്തൻ പിന്നെ നിർമ്മിത ബുദ്ധി ഡെവലപ്പർ ആന. 
+
+**About me (എന്ടെ കുറച്ചട)**
+
+- 💼 CSE Student at KJ Somaiya School of Engineering, Mumbai (2025).
+
+- ❤️ I love writing Python, and building fun Open Source projects useful for others.
+
+- 💬 Ask me about anything [here](https://github.com/sushantnair/sushantnair/issues)
+
+- Have successfully completed the Deep Learning Specialization from Coursera.
+
 <br>
--->
-എഐ, എംഎൽ, ഡിഎൽ, എൻഎൽപി, ഡജാങോ, ഡജാങോ റസ്റ്റ്, പിഎച്ച്പി എന്നിവയിൽ പരിചയം ഉള്ളത്. ഡെവ്‌ഓപ്‌സ്, മേൺ എന്നിവയിൽ താല്പര്യം ഉണ്ട്. ഇന്റർനാഷണൽ സൊസൈറ്റി ഫോർ കൃഷ്ണ കോൺഷ്യസ്നസിന്റെ അംഗമാണ്.
-<br>
-<!--
-एआई, एमएल, डीएल, एनएलपी, डजांगो, डजांगो रेस्ट, पीएचपी इत्यादिषु परिचितः। देवओप्स् तथा मर्न् इत्यत्र रुचिः अस्ति। अन्तर्राष्ट्रीयकृष्णभावनामृतसंघस्य सदस्यः अस्मि।
-<br>
--->
-Familiar with AI, ML, DL, NLP, Django, Django REST and PHP. Interested in DevOps and MERN. Member of the International Society for Krishna Consciousness.
-<!--
-<br>
-ஏஐ, எம்எல், டிஎல், என்எல்பி, டஜாங்கோ, டஜாங்கோ ரெஸ்ட், பிஎச்பி ஆகியவற்றில் பரிச்சயம் உள்ளது. டெவ்ஒப்ஸ், மெர்ன் ஆகியவற்றில் ஆர்வம் உள்ளது. இன்டர்நேஷனல் சாசைட்டி ஃபார் கிருஷ்ணா கான்ஷியஸ்நஸின் உறுப்பினராக இருக்கின்றேன்.
-<br>
--->
-<!-- OPEN VERSION UNDER THE COMMENTS
--->
 
 ## 📊 Github Stats
 
@@ -39,7 +37,7 @@ Familiar with AI, ML, DL, NLP, Django, Django REST and PHP. Interested in DevOps
 <p>
 <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
 <img alt="C" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
-<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white>
+<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white">
 <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
 <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
