@@ -1,5 +1,5 @@
-## Hi. Sushant here. Welcome. :-) ||| നമസ്കാരം. സുശാന്ത് ഇവിടെ. സ്വാഗതം.
-## வணக்கம். சுஷாந்த் இங்கே. வரவேற்கிறேன். ||| नमस्कार। सुशन्त अत्र । स्वागतम्‌।
+## Hi. Sushant here. Welcome. :-) | നമസ്കാരം. സുശാന്ത് ഇവിടെ. സ്വാഗതം.
+## வணக்கம். சுஷாந்த் இங்கே. வரவேற்கிறேன். | नमस्कार. सुशन्त अत्र. स्वागतम्‌.
 #### <em>Talk about the diversity of India! Three languages are native to me: Malayalam, Tamizh and Samskrta. </em>
 <br />
 
