@@ -10,9 +10,15 @@ I'm a passionate Python and AI developer from Kerala, India 🇮🇳
 
 - ❤️ I love writing Python, and building fun Open Source projects useful for others.
 
+- 🐧 I am a Linux User.
+
 - 💬 Ask me about anything [here](https://github.com/sushantnair/sushantnair/issues)
 
-- Have successfully completed the Deep Learning Specialization from Coursera.
+- 📚 Have successfully completed the Deep Learning Specialization from Coursera.
+
+- 📚 Have successfully completed the Python for Everybody Specialization from Coursera.
+
+- I am passionate about AI, ML, DL, NLP, Data Science, Python Programming and Web Development.
 
 <br>
 
