@@ -1,6 +1,7 @@
 ## Welcome. 😊 | സ്വാഗതം. 😊 | வரவேற்பு. 😊 | स्वागतम्‌. 😊
 #### <em>Talk about the diversity of India! Three languages are native to me: Malayalam, Tamizh and Samskrta. </em>
-<br />
+
+#
 
 I'm a passionate Python and AI developer from Kerala, India 🇮🇳
 
@@ -18,23 +19,22 @@ I'm a passionate Python and AI developer from Kerala, India 🇮🇳
 
 - 📚 Have successfully completed the Python for Everybody Specialization from Coursera.
 
-- I am passionate about AI, ML, DL, NLP, Data Science, Python Programming and Web Development.
+- ❤️ I am passionate about AI, ML, DL, NLP, Data Science, Python Programming and Web Development.
 
-<br>
+- ㊙️ I am usually working on private repositories.
+
+#
 
 ## 📊 Github Stats
 
 <span>
 <table>
-  <!-- <tr><img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantnair&layout=compact&langs_count=8&theme=github_dark&hide=SCSS,GLSL,GAP&border_color=404040" alt="My Github Top Languages" /></tr> -->
   <tr><img height="300" src="https://github-readme-stats.vercel.app/api?username=sushantnair&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=cobalt" /></tr>
   <tr><img height="300" src="https://api.githubtrends.io/user/svg/sushantnair/langs" /></tr>
-  <!-- <tr><img height="300" src="https://api.githubtrends.io/user/svg/sushantnair/repos" /></tr>
-  <tr><img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantnair&layout=pie" /></tr> -->
-
 </table>
 </span>
 
+#
 
 ## 🧩 Technologies worked with
 
